@@ -1,7 +1,7 @@
 {
-  "name": "KurrXd",
+  "name": "Pocong",
   "version": "0.0.1",
-  "description": "KurrXd",
+  "description": "Tunggu anj",
   "main": "node .",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "KurrXd",
+  "author": "Bapak Gw",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
